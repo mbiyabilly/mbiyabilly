@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Billy Mbiya
 
-### 💻 PC Support Technician · Infrastructure Learner · Future Builder
+### 💻 PC Support Technician · Infrastructure · Building Future
 
 *Tech enthusiast based in 🇧🇪 Belgium obsessed with understanding how systems work,*
 *from the inside of a PC to large-scale digital infrastructure.*
